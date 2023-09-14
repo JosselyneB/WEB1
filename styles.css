@@ -1,0 +1,99 @@
+h2{
+    font-family: Verdana;
+    color: #ffffff;
+    text-align: center;
+    background-color: #a08585;
+}
+
+h3{
+    font-family: Verdana;
+    color: #111111;
+}
+
+p{
+    font-family: Verdana;
+    color: #262626;
+    font-size: large;
+}
+
+li{
+    font-family: Verdana;
+    color: #262626;
+    font-size: large;
+}
+
+th{
+    font-family: Verdana;
+    color: #111111;
+}
+
+fieldset{
+    border-color: #ffffff;
+    margin-top: 1em;
+    background-color: #ffffff;
+}
+
+legend{
+    border:2px solid #ffffff;
+    font-family: Verdana;
+    border-radius:20px;
+    font-size: large;
+    color: #ffffff;
+    background-color: #a08585;
+}
+
+#presentacion{
+    margin: 0px;
+    width: 19em;
+    float: left;
+    height: 98%;
+    background-color: #ffffff;
+}
+
+#contenido { 
+    margin: 10px;
+    width: calc(100% - 22em);
+    float: right;
+}
+
+.col{
+    padding: 0px 10px;
+    margin: 0px 10px;
+}
+
+
+.perfil{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+p{
+    margin: 10px 0px;
+}
+
+   .references {
+    margin-bottom: 20px;
+}
+
+.references h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.references table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.references th, .references td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.references th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
